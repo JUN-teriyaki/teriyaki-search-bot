@@ -1,6 +1,7 @@
 {
   "name": "teriyaki-search-bot",
   "version": "1.0.0",
+  "description": "Discord bot for searching Yahoo Auctions, Mercari, and Amazon",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
